@@ -1,0 +1,137 @@
+# NOTE: CURRENT_YEAR is also computed automatically (same way as YEARS_COUNT)
+SLUG: the-dojo-flowery-branch
+SCHOOL_NAME: "The Dojo"
+MARTIAL_ART: Karate
+SITE_URL: https://the-dojo-flowery-branch.pages.dev
+DOMAIN: the-dojo-flowery-branch.pages.dev
+# Google Search Console verification. Paste ONLY the content value from Google's
+# "HTML tag" method (google-site-verification=... ) — not the whole <meta> tag.
+# Leave empty until the custom domain actually serves THIS Cloudflare Pages build.
+GSC_VERIFICATION: ""
+CITY: Flowery Branch
+STATE: GA
+ZIP: "30542"
+ADDRESS_LINE_1: "7421 Spout Springs Rd."
+PHONE: "(770) 965-0808"
+EMAIL: mail@thedojorocks.com
+HOURS: "Mon–Fri 3:45pm–7:45pm · Sat 9:00am–12:00pm · Sun Closed"
+YEAR_FOUNDED: ""
+PRIMARY_COLOR: "#B50001"
+SECONDARY_COLOR: "#1A1A1A"
+LOGO_IMAGE: brand_assets/logo.png
+FACEBOOK_URL: https://www.facebook.com/thedojorocks
+INSTAGRAM_URL: https://www.instagram.com/thedojorocks/
+HERO_IMAGE: images/hero/hero.png
+HERO_HEADLINE: "Karate for the 21st Century."
+HERO_SUBHEADLINE: "Flowery Branch's Premier Karate Academy for Kids, Teens & Adults"
+HERO_SUBTEXT: "Modern karate blending boxing, wrestling, and cross-training with real character development — 18,000 sq ft, six mats, and 150+ classes a week."
+SHOW_PROOF_BAR: "true"
+STAR_RATING: "5.0"
+REVIEW_COUNT: "187"
+ABOUT_TEXT: "The Dojo has become Flowery Branch's go-to karate academy by making training different — blending boxing, traditional martial arts, wrestling, and cross-training in an 18,000 square-foot facility with six mats and more than 150 classes a week. Coaches focus on small class sizes and matching every student to their ability level, building confidence, discipline, and real self-defense skills for kids, teens, and adults."
+
+INSTRUCTOR_1_NAME: "The Dojo Coaching Staff"
+INSTRUCTOR_1_PHOTO: images/instructors/instructor-1/photo.jpg
+INSTRUCTOR_1_TITLE: "Expert Instructors"
+INSTRUCTOR_1_BIO: "With more than 100 years of combined martial arts instruction experience, The Dojo's coaching staff blends traditional karate with boxing, wrestling, and cross-training to teach real self-defense and build confident, disciplined students of every age."
+
+PROGRAM_1_NAME: "Kids Karate"
+PROGRAM_1_AGE_RANGE: "Ages 4–12"
+PROGRAM_1_DAYS: "Mon–Sat · multiple class times by belt level"
+PROGRAM_1_SESSION_LEN: "45–60 min classes"
+PROGRAM_1_DESCRIPTION: "Age-appropriate karate classes for ages 4–6 and 7–12 that build physical fitness, coordination, confidence, and self-defense skills through a structured belt-ranking system, in a fun and supportive environment."
+PROGRAM_1_AUDIENCE_KIDS: "1"
+
+PROGRAM_2_NAME: "Teen & Adult Karate"
+PROGRAM_2_AGE_RANGE: "Teens & Adults"
+PROGRAM_2_DAYS: "Mon, Tue & Thu evenings · Wed & Fri midday"
+PROGRAM_2_SESSION_LEN: "60 min classes"
+PROGRAM_2_DESCRIPTION: "A full-body workout combining stretching, cardio, and skill-building — teens and adults train together to build strength, flexibility, focus, and real self-defense ability."
+PROGRAM_2_AUDIENCE_TEENS: "1"
+PROGRAM_2_AUDIENCE_ADULTS: "1"
+
+PROGRAM_3_NAME: "Dojo Drive — After-School Karate"
+PROGRAM_3_AGE_RANGE: "School-Age Kids"
+PROGRAM_3_DAYS: "Mon–Fri, after school"
+PROGRAM_3_SESSION_LEN: "Daily after-school program"
+PROGRAM_3_DESCRIPTION: "Transported directly from partner schools by The Dojo's own bus, kids get a safe, screen-free after-school environment with daily karate instruction, character development, and new friends — a structured alternative to daycare."
+PROGRAM_3_AUDIENCE_KIDS: "1"
+
+PROGRAM_4_NAME: "Dojo Camps"
+PROGRAM_4_AGE_RANGE: "School-Age Kids"
+PROGRAM_4_DAYS: "Summer & school breaks"
+PROGRAM_4_SESSION_LEN: "Full-day camp"
+PROGRAM_4_DESCRIPTION: "Weekly themed camps for school breaks and summer packed with karate training, Nerf games, water activities, and team-building — active, screen-free fun supervised by real coaches, not babysitters."
+PROGRAM_4_AUDIENCE_KIDS: "1"
+
+PROGRAM_5_NAME: "Birthday Parties"
+PROGRAM_5_AGE_RANGE: "Kids"
+PROGRAM_5_DAYS: "By appointment"
+PROGRAM_5_SESSION_LEN: "Private party booking"
+PROGRAM_5_DESCRIPTION: "High-energy karate-themed birthday parties — obstacle courses, real board breaking, Nerf battles, dodgeball, and cake-cutting with a sword. The birthday child earns Black Belt for the Day."
+PROGRAM_5_AUDIENCE_KIDS: "1"
+
+TRIAL_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
+STARTER_KIT_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
+QUIZ_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
+FINAL_CTA_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
+BOOKING_CALENDAR_URL: "https://PLACEHOLDER-replace-before-build"
+
+PRIVACY_POLICY_URL: https://www.thedojorocks.com/privacy-policy
+
+REVIEWER_1_NAME: "Kayla H."
+REVIEWER_1_DATE: "recent"
+REVIEWER_1_TEXT: "Each coach is involved in the children's progress outside of the class - they follow up and invest in their lives. My son has flourished with their leadership."
+
+REVIEWER_2_NAME: "Lizz H."
+REVIEWER_2_DATE: "recent"
+REVIEWER_2_TEXT: "The coaches are excellent, helping students hone their karate skills, while also guiding their behavior and decision making process."
+
+REVIEWER_3_NAME: "Brittany K."
+REVIEWER_3_DATE: "recent"
+REVIEWER_3_TEXT: "What a remarkable team here at the Flowery Branch Dojo! The coaches are astounding and compassionate. They are molding and making such an impact."
+
+CLASS_SCHEDULE_HTML: |
+  <table class="sched" role="table" aria-label="Weekly class schedule">
+    <colgroup><col style="width:30%"><col style="width:11.7%"><col style="width:11.7%"><col style="width:11.7%"><col style="width:11.7%"><col style="width:11.7%"><col style="width:11.7%"></colgroup>
+    <thead><tr><th scope="col">Program</th><th scope="col">Monday</th><th scope="col">Tuesday</th><th scope="col">Wednesday</th><th scope="col">Thursday</th><th scope="col">Friday</th><th scope="col">Saturday</th></tr></thead>
+    <tbody>
+      <tr>
+        <td>White Uniform (Beginner)<br><small style="color:#64748b">Ages 4+ &middot; 45 min</small></td>
+        <td><span class="time-slot kids">4:45 &amp; 5:15 PM</span></td>
+        <td><span class="time-slot kids">4:45 &amp; 5:15 PM</span></td>
+        <td><span class="time-slot kids">4:45 &amp; 6:30 PM</span></td>
+        <td><span class="time-slot kids">5:45 &amp; 6:30 PM</span></td>
+        <td><span class="time-empty">—</span></td>
+        <td><span class="time-slot kids">9:00–9:30 AM</span></td>
+      </tr>
+      <tr>
+        <td>Red Uniform (Intermediate)<br><small style="color:#64748b">Ages 5+ &middot; 45–60 min</small></td>
+        <td><span class="time-slot kids">3:45–5:45 PM</span></td>
+        <td><span class="time-slot kids">5:00–6:00 PM</span></td>
+        <td><span class="time-slot kids">5:00–6:30 PM</span></td>
+        <td><span class="time-slot kids">4:30–6:30 PM</span></td>
+        <td><span class="time-slot kids">4:30–5:15 PM</span></td>
+        <td><span class="time-slot kids">9:00 AM–5:15 PM</span></td>
+      </tr>
+      <tr>
+        <td>Black Uniform (Advanced)<br><small style="color:#64748b">Ages 7+ &middot; 60 min</small></td>
+        <td><span class="time-slot teens">4:15–7:15 PM</span></td>
+        <td><span class="time-slot teens">6:30 PM</span></td>
+        <td><span class="time-slot teens">4:15–6:30 PM</span></td>
+        <td><span class="time-slot teens">5:45–6:30 PM</span></td>
+        <td><span class="time-slot teens">5:15–5:45 PM</span></td>
+        <td><span class="time-slot teens">9:30 AM–5:45 PM</span></td>
+      </tr>
+      <tr>
+        <td>Adults Karate<br><small style="color:#64748b">Ages 18+ &middot; 60 min</small></td>
+        <td><span class="time-slot adult">5:45 PM</span></td>
+        <td><span class="time-slot adult">5:45 PM</span></td>
+        <td><span class="time-slot adult">12:00 PM</span></td>
+        <td><span class="time-slot adult">7:15 PM</span></td>
+        <td><span class="time-slot adult">12:00 PM</span></td>
+        <td><span class="time-empty">—</span></td>
+      </tr>
+    </tbody>
+  </table>
+  <p style="margin-top:12px;font-size:13px;color:#64748b">Exact class time depends on your student's specific belt level — call <a href="tel:+17709650808">(770) 965-0808</a> to confirm the right class for you or your child.</p>
